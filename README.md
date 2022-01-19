@@ -9,3 +9,8 @@
 ![Coming Soon Page Mobile](/images/coming-soon-mobile.png "Coming Soon Page Mobile")
 ![Coming Soon Page Desktop](/images/coming-soon-desktop.png "Coming Soon Page Desktop")
 ---
+#### Responsive Delivery Status Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/delivery-status-page/ "Delivery Status Page")
+---
+
+---
+![Delivery Status Desktop](/images/delivery-status-desktop_macbookgrey_front.png "Delivery Status Desktop")
