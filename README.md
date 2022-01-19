@@ -17,9 +17,9 @@
 ---
 #### Responsive Landing Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/responsive-landing-page/ "Landing Page")
 ---
-![Landing Page Mobile](/images/landing-page-mobile.png "Landing Page Mobile")
+![Landing Page Mobile](/images/landing-mobile-1.png "Landing Page Mobile")
 ---
-![Landing Page Desktop](/images/landing-page-desktop.png "Landing Page Desktop")
+![Landing Page Desktop](/images/landing-desktop-1.png "Landing Page Desktop")
 ---
 #### Responsive Login Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/responsive-login-page/ "Landing Page")
 ---
