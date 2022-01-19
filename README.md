@@ -13,5 +13,17 @@
 ---
 ![Delivery Status Mobile](/images/delivery-status-mobile_iphone12prographite_portrait.png "Delivery Status Mobile")
 ---
-![Delivery Status Desktop](/images/delivery-status-desktop_macbookgrey_front.png "Delivery Status Desktop")
+![Delivery Status Desktop](/images/delivery-status-desktop.png "Delivery Status Desktop")
+---
+#### Responsive Landing Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/responsive-landing-page/ "Landing Page")
+---
+![Landing Page Mobile](/images/landing-page-mobile.png "Landing Page Mobile")
+---
+![Landing Page Desktop](/images/landing-page-desktop.png "Landing Page Desktop")
+---
+#### Responsive Login Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/responsive-login-page/ "Landing Page")
+---
+![Login Page Mobile](/images/login-page-mobile.png "Login Page Mobile")
+---
+![Login Page Desktop](/images/login-page-desktop.png "Login Page Desktop")
 ---
