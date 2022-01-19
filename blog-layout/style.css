@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@600;800&display=swap');
+
+* {
+  margin: 0;
+}
+
+body {
+  min-width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(7.28deg, #EEF5FF 0%, #FFFFFF 99.69%);
+  font-family: 'Merriweather', serif; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+}
+
+h2, h3, h6 {
+  font-weight: 600;
+}
+
+h2 {
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+
+h3 {
+  font-size: 1.3rem;
+}
+
+h6 {
+  font-size: 0.9rem;
+}
+
+h1 {
+  line-height: 65px;
+}
+
+
+
+.outer-container {
+  max-width: 900px;
+  padding: 25px;
+  margin: 60px auto;
+}
+
+.about-author {
+   margin-bottom: 35px;
+}
+
+.latest-blog-container {
+  display: flex;
+  margin-top: 25px;
+}
+
+.latest-blog-container img {
+  width: 65%;
+}
+
+.latest-blog-content {
+  width: 35%;
+  padding: 40px 12px 0 30px;
+}
+
+.avatar-container {
+  margin-top: 20px;
+  display: flex;
+}
+
+.avatar-container img {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.blogs-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.blog-container > img {
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+.blog-container h3 {
+  width: 80%;
+}
+
+.line {
+  width: 100%;
+  border-top: 1px solid #c5c5c9;
+}
