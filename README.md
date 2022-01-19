@@ -1,4 +1,4 @@
-### This repository is a collection of Responsive web pages built with HTML & CSS.
+## This repository is a collection of Responsive web pages built with HTML & CSS.
 
 #### Blog Page Layout | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/blog-layout/ "Blog Page Layout")
 ---  
@@ -11,6 +11,7 @@
 ---
 #### Responsive Delivery Status Page | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/delivery-status-page/ "Delivery Status Page")
 ---
-
+![Delivery Status Mobile](/images/delivery-status-mobile_iphone12prographite_portrait.png "Delivery Status Mobile")
 ---
 ![Delivery Status Desktop](/images/delivery-status-desktop_macbookgrey_front.png "Delivery Status Desktop")
+---
