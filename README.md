@@ -25,5 +25,7 @@
 ---
 ![Login Page Mobile](/images/login-page-mobile.png "Login Page Mobile")
 ---
+![Login Page Tablet](/images/login-page-tablet.png "Login Page Tablet")
+---
 ![Login Page Desktop](/images/login-page-desktop.png "Login Page Desktop")
 ---
