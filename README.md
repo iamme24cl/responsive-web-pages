@@ -1,5 +1,8 @@
 ## This repository is a collection of Responsive web pages built with HTML & CSS.
 
+## Screenshots ☀️
+
+
 ### 1. Blog Page Layout | [Take me to Page](https://iamme24cl.github.io/responsive-web-pages/blog-layout/ "Blog Page Layout")
 ---  
 ![Blog Page Layout](/images/blog-layout.png "Blog Page Layout")
